@@ -19,5 +19,15 @@ const emojipedia = [
     name: "Rolling On The Floor, Laughing",
     meaning:
       "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“."
+  },
+
+  {
+    id: 4,
+    emoji: "🍕",
+    name: "Pizza",
+    meaning:
+      "Needs no introduction. Who doesn't love pizza? The developers second favourite food, after pasta! Mama mia. 👩‍🍳"
   }
 ];
+
+export default emojipedia;
